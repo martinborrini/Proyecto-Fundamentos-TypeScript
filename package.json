@@ -1,0 +1,24 @@
+{
+  "name": "proyecto-fundamentos-typescript",
+  "version": "1.0.0",
+  "description": "Proyecto inicial para conocer los fundamentos de TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinborrini/Proyecto-Fundamentos-TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinborrini/Proyecto-Fundamentos-TypeScript/issues"
+  },
+  "homepage": "https://github.com/martinborrini/Proyecto-Fundamentos-TypeScript#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "typescript": "^4.6.4"
+  }
+}
